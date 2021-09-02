@@ -1,0 +1,12 @@
+https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt
+https://easylist-downloads.adblockplus.org/adwarefilters.txt
+https://easylist-downloads.adblockplus.org/easyprivacy.txt
+https://adaway.org/hosts.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
+http://sysctl.org/cameleon/hosts
+https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
+https://ransomwaretracker.abuse.ch/downloads/RW_URLBL.txt
+http://theantisocialengineer.com/AntiSocial_Blacklist_Community_V1.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
